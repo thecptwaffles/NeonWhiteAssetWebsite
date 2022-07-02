@@ -1,0 +1,24 @@
+:root {
+    margin: 0px;
+    padding: 0px;
+    background-color: #383838;
+    color: white;
+}
+
+.profileIcon {
+    display: flex;
+    align-items: right;
+    justify-content: right;
+}
+
+nav {
+    background-color: black;
+    margin: 0;
+    padding: 0;
+}
+
+#welcomeMessage {
+    text-align: center;
+    font-size: 10vw;
+    font-family: sans-serif;
+}

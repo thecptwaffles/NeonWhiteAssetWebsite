@@ -1,0 +1,22 @@
+:root {
+    margin: 0px;
+    padding: 0px;
+}
+
+.profileIcon {
+    display: flex;
+    align-items: right;
+    justify-content: right;
+}
+
+nav {
+    background-color: blue;
+    margin: 0;
+    padding: 0;
+}
+
+#welcomeMessage {
+    text-align: center;
+    font-size: 50px;
+    font-family: sans-serif;
+}
